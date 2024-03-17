@@ -1,0 +1,56 @@
+[28-Nov-2023 18:49:19 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(740): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/caparptx/public_html/core/storage/framework/views/77ea473bd875e87f7a31b204420a1b934fd8dc06.php(43): route('home')
+#2 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/caparptx/...')
+#3 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/caparptx/...', Array)
+#5 /home/caparptx/public_html/co in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[28-Nov-2023 18:49:20 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(740): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/caparptx/public_html/core/storage/framework/views/77ea473bd875e87f7a31b204420a1b934fd8dc06.php(43): route('home')
+#2 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/caparptx/...')
+#3 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/caparptx/...', Array)
+#5 /home/caparptx/public_html/co in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[28-Nov-2023 18:49:21 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(740): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/caparptx/public_html/core/storage/framework/views/77ea473bd875e87f7a31b204420a1b934fd8dc06.php(43): route('home')
+#2 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/caparptx/...')
+#3 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/caparptx/...', Array)
+#5 /home/caparptx/public_html/co in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[28-Nov-2023 18:49:22 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(740): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/caparptx/public_html/core/storage/framework/views/77ea473bd875e87f7a31b204420a1b934fd8dc06.php(43): route('home')
+#2 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/caparptx/...')
+#3 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/caparptx/...', Array)
+#5 /home/caparptx/public_html/co in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[28-Nov-2023 18:50:18 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(740): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/caparptx/public_html/core/storage/framework/views/77ea473bd875e87f7a31b204420a1b934fd8dc06.php(43): route('home')
+#2 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/caparptx/...')
+#3 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/caparptx/...', Array)
+#5 /home/caparptx/public_html/co in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[30-Nov-2023 09:33:01 Africa/Abidjan] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(740): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/caparptx/public_html/core/storage/framework/views/77ea473bd875e87f7a31b204420a1b934fd8dc06.php(43): route('home')
+#2 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/caparptx/...')
+#3 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/caparptx/...', Array)
+#5 /home/caparptx/public_html/co in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[30-Nov-2023 09:33:06 Africa/Abidjan] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(740): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/caparptx/public_html/core/storage/framework/views/77ea473bd875e87f7a31b204420a1b934fd8dc06.php(43): route('home')
+#2 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/caparptx/...')
+#3 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/caparptx/...', Array)
+#5 /home/caparptx/public_html/co in /home/caparptx/public_html/core/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
